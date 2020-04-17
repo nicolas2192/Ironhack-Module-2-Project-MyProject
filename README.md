@@ -8,3 +8,5 @@ As a conclusion, it was determined that GDP per capita does not affect the numbe
 Flat lines suggest that a variation in GDP per capita won't affect the number of suicides, while an upward tilted line reads into a directly proportional link.
 
 ![](readme_image.png)
+
+Check it out this project and many more on my [Tableau page](https://public.tableau.com/profile/nicolascortinas#!/)
